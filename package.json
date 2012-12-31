@@ -1,0 +1,23 @@
+{
+  "name": "toolbelt.js",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jussi-kalliokoski/tool-belt.js"
+  },
+  "devDependencies": {
+    "mocha": "1.7.x"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "author": {
+    "name": "Jussi Kalliokoski",
+    "url": "http://avd.io"
+  },
+  "license": "MIT"
+}
